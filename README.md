@@ -10,3 +10,6 @@ Finally completed both the book and online [Udemy course](https://www.udemy.com/
 
 **UPDATE 2/17:**
 Had a few remaining practice problems that I could not solve originally, but after several additional months of diving into using Python I was able to return to these practice problems and get them resolved. This repository is now finalized!
+
+**UPDATE 7/18:**
+Moving this repository to [Gitlab](https://gitlab.com/lotspaih/automateBoringstuffPython)
